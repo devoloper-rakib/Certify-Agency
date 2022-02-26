@@ -1,0 +1,103 @@
+@media only screen and (max-width:576px){
+	
+.banner_content h1{
+	font-size: 32px;
+	word-spacing: 2px;
+	line-height: 38px;
+	margin-bottom: 20px;
+
+}
+.banner_content p{
+	font-size: 18px;
+	line-height: 28px;
+	margin-bottom: 60px;
+
+}
+
+.common_btn{
+	font-size: 20px;
+	padding: 13px 32px;
+}
+
+.color_button{
+	font-size: 20px;	
+	padding: 13px 10px 20px 32px;
+	margin-left: 20px;
+}
+
+.card_content{
+	margin-top: 30px;
+}
+
+.card_main{
+	padding: 20px 50px;
+}
+
+
+.dynamic_img{
+	margin-bottom: 80px;
+}
+
+.dynamic{
+	padding:80px 50px;
+}
+
+.plan_center{
+	margin: 50px 0;
+}
+
+
+.slider_content{
+	margin:50px 0 0 0;
+}
+
+.carousel-indicators {
+
+    bottom: -66px;
+ 
+}
+
+.slider{
+	padding: 50px 50px;
+
+}
+
+
+/* .contact us part start  */
+
+.contact_us_form{
+	margin-top: 40px;
+}
+
+.button{
+	width: 45% !important;
+}
+
+/* .contact us part end */
+
+
+.blog{
+	padding: 30px 50px;
+}
+
+.blog_card{
+	margin-bottom: 50px !important;
+}
+
+.mini_content{
+	margin-top: 20px;
+}
+
+.blog_button{
+	margin-bottom: 50px;
+}
+
+
+.footer_second{
+	margin-top: 40px;
+}
+
+
+
+}
+
